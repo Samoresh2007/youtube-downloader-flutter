@@ -1,0 +1,4 @@
+Flask==2.3.2
+pytube==15.0.0
+werkzeug==2.3.7
+pyngrok==6.0.0
